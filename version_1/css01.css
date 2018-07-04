@@ -1,0 +1,20 @@
+.btnRestart{
+text-align: center;
+}
+h1{
+text-align: center;
+}
+td{
+text-align: center;
+font-size: 120px;
+border: 3px solid black;
+width: 175px;
+height: 175px;
+}
+text-align: center;
+.tablediv{
+margin: auto;
+}
+.none{
+  text-align: center;
+}
